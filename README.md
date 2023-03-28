@@ -1,4 +1,4 @@
 # myfirstrepo
 
-- Name: Kim
-- Affiliation: HGU
+- Name: KimK
+- Affiliation: Handong Global University
